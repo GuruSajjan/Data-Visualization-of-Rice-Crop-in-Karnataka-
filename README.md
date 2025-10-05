@@ -68,3 +68,7 @@ The following Python libraries are used in the notebook:
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+## Data Source
+
+The Data can be accessed using this link (https://www.data.gov.in/resource/crop-rice-area-hectares-production-tonnes-yield-kgshectare).
